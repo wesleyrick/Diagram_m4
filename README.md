@@ -14,5 +14,5 @@ Perguntas
 
 <div>
   <h1> Diagrama Resilia<h1>
-  <img src= ./SQL/Diagram.png/>
+  <img src= './SQL/Diagram.PNG'/>
 </div>
